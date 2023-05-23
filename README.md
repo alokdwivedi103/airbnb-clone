@@ -1,25 +1,29 @@
-The best air-bnb clone built using react and redux. comprising of the home page which offers you to choose the perfect stay from 100's of options.
-the navbar allowing the user to search for any destanation, select the dates and guests and thereby redirecting to the search results page.  the user can sign in with his google account.
+# Deployed site using Render static site
+deployed project link : https://airbnb-clone-m9fm.onrender.com
 
-the search results page allows the user to filter out options from low to high, couple friendly and even pet friendly options.
+The navbar allowing the user to search for any destanation, select the dates and guests and thereby redirecting to the search results page.  the user can sign in with his google account.
+
+The search results page allows the user to filter out options from low to high, couple friendly and even pet friendly options.
 
 upon clicking on a certain place the user is taken to the place detail page which shows more information abot the page such reviewes, a calendar to choose dates from and much more and after the user selects his preffered dates
 
 he is then taken to the checkout page which has paypal, googlepay, visa, amex and mastercard integrated which allows the user to complete the payment
 
-DO STAR THE REPO 🌟
+# Running this app in your local 
+### `git clone <repo link>`
 
+# Install all the dependencies 
+### `npm install`
 
+# Run app
+### `npm run start`
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -51,33 +55,3 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

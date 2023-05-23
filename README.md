@@ -1,5 +1,5 @@
 # Deployed site using Render static site
-deployed project link : https://airbnb-clone-fggh.onrender.com/
+deployed project link : [https://airbnb-clone-fggh.onrender.com/](https://airbnb-clone-fggh.onrender.com/)
 
 The navbar allowing the user to search for any destanation, select the dates and guests and thereby redirecting to the search results page.  the user can sign in with his google account.
 

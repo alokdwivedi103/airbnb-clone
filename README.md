@@ -1,5 +1,5 @@
 # Description
-It is a front-end application similar to AirBNB it comprises of different routes such as home,different hotel pages , checkout,payment and many more. It has payment methods that include paypal and card more. Apart from that i've added different filter for different places such as beaches, resorts and more.
+It is a front-end application similar to AirBNB it comprises of different routes such as home,different hotel pages , checkout,payment and many more. It has payment methods that include paypal and card more. Apart from that i've added different filter for different places such as beaches, resorts and more that airbnb contains too.
 
 # Deployed site using Render static site
 deployed project link : [https://airbnb-clone-fggh.onrender.com/](https://airbnb-clone-fggh.onrender.com/)
